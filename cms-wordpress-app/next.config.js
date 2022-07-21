@@ -15,4 +15,5 @@ module.exports = {
       '1.gravatar.com'
     ],
   },
+  staticPageGenerationTimeout: 300,
 }
